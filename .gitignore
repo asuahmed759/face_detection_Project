@@ -1,0 +1,6 @@
+facedetectionvenv/
+aug_data/
+logs/
+*.h5
+__pycache__/
+.ipynb_checkpoints/
